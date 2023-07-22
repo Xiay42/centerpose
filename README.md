@@ -1,0 +1,2 @@
+# centerpose
+VisionX_internship_centerpose
